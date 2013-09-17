@@ -1,0 +1,13 @@
+;;; rcirc-notify-autoloads.el --- automatically extracted autoloads
+;;
+;;; Code:
+
+
+(provide 'rcirc-notify-autoloads)
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; no-update-autoloads: t
+;; coding: utf-8
+;; End:
+;;; rcirc-notify-autoloads.el ends here
